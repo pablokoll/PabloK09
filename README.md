@@ -12,11 +12,15 @@ y siempre dispuesto a enseñar y aprender de los demás.
 Tecnologías💡
 
 ◻ Lenguaje de programación: JavaScript
+
 ◻ Desarrollo Front-End: HTML5, CSS3, React, Redux, React Native
+
 ◻ Desarrollo Back-End: NodeJS, Express, Sequelize, PostgreSQL
+
 ◻ Otros: Git, Github, Slack, Trello, Scrum
 
 Contacto📨
 
 ◻ Podes enviarme un e-mail a pablokollm@gmail.com
+
 ◻ Hablarme a mi linkedin https://www.linkedin.com/in/pablo-koll/
